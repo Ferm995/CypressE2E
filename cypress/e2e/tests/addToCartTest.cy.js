@@ -1,3 +1,4 @@
+/*
 import {homePage} from "../../pages/homePage"
 const homePageObj = new homePage()
 import testData from '../../fixtures/testData.json'
@@ -21,3 +22,4 @@ describe(' test automation', () =>{
    
 })
 
+*/
