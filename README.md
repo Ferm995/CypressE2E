@@ -7,13 +7,13 @@ This project is an end-to-end testing framework built with [Cypress](https://www
 ---
 
 ## 📁 Project Structure
-── e2e/ # Cypress test specs (organized by features) 
-── fixtures/ # Test data files in JSON format 
-── pages/ # Page Object Model (POM) classes for UI elements 
-── reports/ # Generated HTML reports 
-── .github/ # GitHub Actions workflows for CI/CD 
-── cypress.config.js # Cypress configuration 
-── package.json # Project dependencies and scripts
+- e2e/ # Cypress test specs (organized by features) 
+- fixtures/ # Test data files in JSON format 
+- pages/ # Page Object Model (POM) classes for UI elements 
+- reports/ # Generated HTML reports 
+- .github/ # GitHub Actions workflows for CI/CD 
+- cypress.config.js # Cypress configuration 
+- package.json # Project dependencies and scripts
 
 # 🚀 Getting Started
 
